@@ -1,2 +1,2 @@
 # kpartitions
-print all k partitions
+print all k partitions that are contiguos.
